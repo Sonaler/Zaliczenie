@@ -1,0 +1,10 @@
+f61d0517144c8424f095d5da52878e65427d7dc7 Merge pull request #2 from Sonaler/blood_donation
+f7afffab43a054229698489f6eaeb63fa8d848f2 Dzień krwiodawcy - motyw
+d2243587fa90d2f4d379532ee050e137d9594135 Dzień Krwiodawcy - ustanowienie
+ed068b307b0f45117e9d534fed34218d5b60e8cf Merge pull request #1 from Sonaler/savoir_vivre
+8d3d6844b0df27727565f9169e27bac891a8d9e8 Bon ton
+b6e2e17ab348b2a21801c2129429e891b2a389bf Etymologia savoir-vivre
+78b379294b1263f4e4aa06dcabdcb774207fd9d3 Światowy Dzień Savoir-Vivre
+7e03a3f1426ce8ad0e560b7da7c8f3d39cab7362 Merge branch 'master' of https://github.com/Sonaler/Zaliczenie
+64e774367b2d37b564ac04699de0744ff4fae97b hi
+0ccbeac2809fd9db93642615fb6d143388dc0f4e Initial commit
